@@ -1,0 +1,17 @@
+main.cpp = solo il main ecc.
+funzioni.h = prototipi funzioni e struct.
+funzioni.cpp = corpo delle funzioni vero e proprio.
+frame.txt = il risultato del frame finale.
+msg.txt = testo iniziale da utilizzare e lavorare.
+command.txt = funzione dei file.
+
+1) charToBin (da char a binario)
+2) stringToBin (da string a bianrio)
+3) leggiMsg
+4) converti stringa in binario
+5) scriviMessaggio
+6) struct ipheader
+7) funzione che imposta i campi ip header
+
+github
+latex
