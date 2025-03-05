@@ -3,11 +3,19 @@
 #include <string>
 using namespace std;
 
+//input e output del file
 string leggiMessaggio();
 void scriviMessaggio();
+
+//conversioni
 string charToBin(char msg);
 string stringToBin(string msg);
-string calculateTotLen(char length);
+void frameToText(string &frameText);
 string headerToText();
+
+//compilazione campi struct
+void createFrame(string text);
 string createDatagram(string text);
+
+//inizio
 void start();
